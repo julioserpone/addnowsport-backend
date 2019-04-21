@@ -1,0 +1,18 @@
+<?php
+
+/*return [
+    'PRIVATE_KEY' => "C:" . DIRECTORY_SEPARATOR . "laragon" . DIRECTORY_SEPARATOR 
+    . "etc" . DIRECTORY_SEPARATOR . "ssl" . DIRECTORY_SEPARATOR . "private"
+    . DIRECTORY_SEPARATOR . "597020000541.key",
+    
+    'CERT_FILE' => "C:" . DIRECTORY_SEPARATOR . "laragon" . DIRECTORY_SEPARATOR 
+    . "etc" . DIRECTORY_SEPARATOR . "ssl" . DIRECTORY_SEPARATOR . "certs" 
+    . DIRECTORY_SEPARATOR . "597020000541.crt",
+    
+    'SERVER_CERT' => "C:" . DIRECTORY_SEPARATOR . "laragon" . DIRECTORY_SEPARATOR 
+    . "etc" . DIRECTORY_SEPARATOR . "ssl" . DIRECTORY_SEPARATOR . "certs" 
+    . DIRECTORY_SEPARATOR . "tbk.pem",
+
+];
+
+*/
